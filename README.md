@@ -2,6 +2,8 @@
 
 I'm pursuing a networking-focused IT degree with the goal of working in a Network Operations Center (NOC). My interests center on routing, switching, wireless networking, and network monitoring. These projects showcase hands-on labs aligned with CCNA and Network+ objectives, where I practice configuring network devices, troubleshooting connectivity issues, analyzing traffic, and maintaining reliable network operations.
 
+## 📡🌐 Routing, Switching & Network Design
+
 - **[Routing & Switching Labs (VLANs, Trunking, Inter-VLAN Routing)](https://github.com/YOURUSERNAME/ccna-routing-switching-labs)**
 - **[Subnetting, IP Addressing, and Network Design Labs](https://github.com/YOURUSERNAME/ip-addressing-labs)**
 - **[Packet Tracer Network Simulations](https://github.com/YOURUSERNAME/packet-tracer-labs)**
