@@ -4,9 +4,8 @@ I'm pursuing a networking-focused IT degree with the goal of working in a Networ
 
 ## 📡🌐 Routing, Switching & Network Design
 
-- **[Routing & Switching Labs (VLANs, Trunking, Inter-VLAN Routing)]
-- ([https://github.com/WDSJ2K/ccna-routing-switching-labs]
-- (https://github.com/WDSJ2K/Routing-Switching-Network-Design/tree/main?tab=readme-ov-file)**
+- **[Routing & Switching Labs (VLANs, Trunking, Inter-VLAN Routing)]**
+- (https://github.com/WDSJ2K/Routing-Switching-Network-Design/tree/main?tab=readme-ov-file)
 
 
 ## 📡 Network Monitoring & Troubleshooting
