@@ -4,16 +4,16 @@ I'm pursuing a networking-focused IT degree with the goal of working in a Networ
 
 ## 📡🌐 Routing, Switching & Network Design
 
-- **[Routing & Switching Labs (VLANs, Trunking, Inter-VLAN Routing)](https://github.com/YOURUSERNAME/ccna-routing-switching-labs)**
-- **[Subnetting, IP Addressing, and Network Design Labs](https://github.com/YOURUSERNAME/ip-addressing-labs)**
-- **[Packet Tracer Network Simulations](https://github.com/YOURUSERNAME/packet-tracer-labs)**
-- **[Wireless Networking Configuration & Troubleshooting](https://github.com/YOURUSERNAME/wireless-networking-labs)**
+- **[Routing & Switching Labs (VLANs, Trunking, Inter-VLAN Routing)]
+- ([https://github.com/WDSJ2K/ccna-routing-switching-labs]
+- (https://github.com/WDSJ2K/Routing-Switching-Network-Design/tree/main?tab=readme-ov-file)**
+
 
 ## 📡 Network Monitoring & Troubleshooting
 
-- **[Network Traffic Analysis with Wireshark](https://github.com/YOURUSERNAME/wireshark-analysis)**
-- **[Linux Networking Fundamentals & CLI Troubleshooting](https://github.com/YOURUSERNAME/linux-networking-labs)**
-- **[Network Performance, Availability, and Redundancy Labs](https://github.com/YOURUSERNAME/network-operations-labs)**
+- **[Network Traffic Analysis with Wireshark](https://github.com/WDSJ2K/wireshark-analysis)**
+- **[Linux Networking Fundamentals & CLI Troubleshooting](https://github.com/WDSJ2K/linux-networking-labs)**
+- **[Network Performance, Availability, and Redundancy Labs](https://github.com/WDSJ2K/network-operations-labs)**
   
 <hr/>
 
