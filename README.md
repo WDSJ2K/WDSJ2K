@@ -24,7 +24,7 @@ I'm pursuing a networking-focused IT degree with the goal of working in a Networ
 [twitter]: https://twitter.com//_willspencerjr
 [youtube]: https://www.youtube.com/c/@williecloud23
 [instagram]: https://www.instagram.com/_willspencerjr
-[linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/williamspencerjr1401/)
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/williamspencerjr1401/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
