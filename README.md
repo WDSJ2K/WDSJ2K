@@ -22,7 +22,7 @@ I'm pursuing a networking-focused IT degree with the goal of working in a Networ
 [<img align="left" alt="_willspencerjr| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com//_willspencerjr
-[youtube]: https://www.youtube.com/c/williecloud23
+[youtube]: https://www.youtube.com/c/@williecloud23
 [instagram]: https://www.instagram.com/_willspencerjr
 [linkedin]: https://www.linkedin.com/in/williamspencerjr1401/
 
