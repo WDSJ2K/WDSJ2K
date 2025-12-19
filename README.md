@@ -16,13 +16,13 @@ I'm pursuing a networking-focused IT degree with the goal of working in a Networ
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="WillieCloud23| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@WillieCloud23| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="_willspencerjr| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/williamspencerjr1401/| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_willspencerjr| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com//_willspencerjr
-[youtube]: https://www.youtube.com/c/@williecloud23
+[youtube]: https://www.youtube.com/@WillieCloud23
 [instagram]: https://www.instagram.com/_willspencerjr
 [linkedin]: https://www.linkedin.com/in/williamspencerjr1401/
 
