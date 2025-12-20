@@ -15,7 +15,7 @@ These projects demonstrate **hands-on, operational experience** aligned with **N
 
 ## 📡🌐 Routing, Switching & Network Design
 
-- **[1️ Enterprise Network Foundations](https://github.com/WDSJ2K/Routing-Switching-Network-Design)**
+- **[ Enterprise Network Foundations](https://github.com/WDSJ2K/Routing-Switching-Network-Design)**
 -   *Built and validated a segmented enterprise-style network using switching fundamentals.*
 
 <hr/>
