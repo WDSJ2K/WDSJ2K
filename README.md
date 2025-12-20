@@ -1,16 +1,22 @@
-# <a href="(https://www.linkedin.com/in/williamspencerjr1401/)">William Spencer</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="(https://www.linkedin.com/in/williamspencerjr1401/)">William Spencer</a>'s IT Networking / NOC Engineering Project Portfolio 🔐
 
-I'm pursuing a networking-focused IT degree with the goal of working in a Network Operations Center (NOC). My interests center on routing, switching, wireless networking, and network monitoring. These projects showcase hands-on labs aligned with CCNA and Network+ objectives, where I practice configuring network devices, troubleshooting connectivity issues, analyzing traffic, and maintaining reliable network operations.
+I'm pursuing a networking-focused IT degree with the goal of working in a **Network Operations Center (NOC)**. 
+My interests include **routing and switching fundamentals, wireless networking, network monitoring, and incident troubleshooting**.
+
+These projects demonstrate **hands-on, operational experience** aligned with **Network+ and early CCNA objectives**, focusing on **network availability, fault isolation, and validation** in small enterprise environments. 
 
 
 ## 📡 Network Monitoring & Troubleshooting
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Network Monitoring & Incident Response](https://github.com/WDSJ2K/Monitoring-and-Incident-Response)**
+-   *Implemented monitoring, simulated outages, and validated service restoration.*
+- **[Network Troubleshooting & Root Cause Analysis](https://github.com/WDSJ2K/Troubleshooting-RCA)**
+-   *Diagnosed and resolved common network failures using structured troubleshooting.*
 
 ## 📡🌐 Routing, Switching & Network Design
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[1️ Enterprise Network Foundations](https://github.com/WDSJ2K/Routing-Switching-Network-Design)**
+-   *Built and validated a segmented enterprise-style network using switching fundamentals.*
 
 <hr/>
 
