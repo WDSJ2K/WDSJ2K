@@ -1,22 +1,31 @@
 # <a href="(https://www.linkedin.com/in/williamspencerjr1401/)">William Spencer</a>'s IT Networking / NOC Engineering Project Portfolio 🔐
 
-I'm pursuing a networking-focused IT degree with the goal of working in a **Network Operations Center (NOC)**. 
-My interests include **routing and switching fundamentals, wireless networking, network monitoring, and incident troubleshooting**.
+This repository contains hands-on networking labs focused on **Network Operations Center (NOC)**. 
+My interests include **fundamentals, including network monitoring, incident response, and Layer 1–3 troubleshooting.**.
 
-These projects demonstrate **hands-on, operational experience** aligned with **Network+ and early CCNA objectives**, focusing on **network availability, fault isolation, and validation** in small enterprise environments. 
+These projects demonstrate **operational networking experience** aligned with **CCNA-level concepts**, with an emphasis on **network availability, fault isolation, service restoration and validation** in small enterprise environments. 
 
 
 ## 📡 Network Monitoring & Troubleshooting
 
 - **[Network Monitoring & Incident Response](https://github.com/WDSJ2K/Monitoring-and-Incident-Response)**
--   *Implemented monitoring, simulated outages, and validated service restoration.*
+- **IOS Device Operations & Validation**
+
+- Simulated network outages and confirmed service restoration
+- Identified configuration persistence issues and validated startup vs     running configurations
+- Verified interface and device availability
+- Restored network functionality following device reloads
 - **[Network Troubleshooting & Root Cause Analysis](https://github.com/WDSJ2K/Troubleshooting-RCA)**
 -   *Diagnosed and resolved common network failures using structured troubleshooting.*
 
 ## 📡🌐 Routing, Switching & Network Design
 
 - **[ Enterprise Network Foundations](https://github.com/WDSJ2K/Routing-Switching-Network-Design)**
--   *Built and validated a segmented enterprise-style network using switching fundamentals.*
+- Built and validated segmented enterprise-style networks
+
+- Implemented basic switching and VLAN concepts
+
+- Verified intra-network communication and connectivityls.
 
 <hr/>
 
