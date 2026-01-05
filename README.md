@@ -1,20 +1,17 @@
 # <a href="(https://www.linkedin.com/in/williamspencerjr1401/)">William Spencer</a>'s IT Networking / NOC Engineering Project Portfolio 🔐
 
-This repository contains hands-on networking labs focused on **Network Operations Center (NOC)**. 
-My interests include **fundamentals, including network monitoring, incident response, and Layer 1–3 troubleshooting.**.
+This repository contains hands-on networking labs focused on **Network Operations Center (NOC)** fundamentals, including network monitoring, incident response, and Layer 1–3 troubleshooting.
 
-These projects demonstrate **operational networking experience** aligned with **CCNA-level concepts**, with an emphasis on **network availability, fault isolation, service restoration and validation** in small enterprise environments. 
+The projects demonstrate **operational networking experience** aligned with **CCNA-level concepts**, with an emphasis on network availability, fault isolation, service restoration, and validation in small enterprise-style environments.
 
 
-## 📡 Network Monitoring & Troubleshooting
+## 📡 Network Monitoring & Troubleshooting & IOS Device Operations & Validation
+
 
 - **[Network Monitoring & Incident Response](https://github.com/WDSJ2K/Monitoring-and-Incident-Response)**
-- **IOS Device Operations & Validation**
-
-- Simulated network outages and confirmed service restoration
-- Identified configuration persistence issues and validated startup vs     running configurations
 - Verified interface and device availability
-- Restored network functionality following device reloads
+- Simulated network outages and confirmed service restoration
+- Validated device state and interface status using Cisco IOS operational commands 
 - **[Network Troubleshooting & Root Cause Analysis](https://github.com/WDSJ2K/Troubleshooting-RCA)**
 -   *Diagnosed and resolved common network failures using structured troubleshooting.*
 
