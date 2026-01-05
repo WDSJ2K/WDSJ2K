@@ -4,25 +4,33 @@ This repository contains hands-on networking labs focused on **Network Operation
 
 The projects demonstrate **operational networking experience** aligned with **CCNA-level concepts**, with an emphasis on network availability, fault isolation, service restoration, and validation in small enterprise-style environments.
 
-
 ## 📡 Network Monitoring & Troubleshooting & IOS Device Operations & Validation
 
-
 - **[Network Monitoring & Incident Response](https://github.com/WDSJ2K/Monitoring-and-Incident-Response)**
-- Verified interface and device availability
-- Simulated network outages and confirmed service restoration
-- Validated device state and interface status using Cisco IOS operational commands 
+  
+  *Verified interface and device availability
+  
+  *Simulated network outages and confirmed service restoration
+  
+  *Validated device state and interface status using Cisco IOS operational commands 
 - **[Network Troubleshooting & Root Cause Analysis](https://github.com/WDSJ2K/Troubleshooting-RCA)**
--   *Diagnosed and resolved common network failures using structured troubleshooting.*
+  
+  *Diagnosed and resolved common Layer 1–3 network failures
+  
+  *Applied structured troubleshooting techniques to isolate root causes
+  
+  *Validated fixes through repeat testing
+
 
 ## 📡🌐 Routing, Switching & Network Design
 
 - **[ Enterprise Network Foundations](https://github.com/WDSJ2K/Routing-Switching-Network-Design)**
-- Built and validated segmented enterprise-style networks
+  
+  *Built and validated segmented enterprise-style networks
 
-- Implemented basic switching and VLAN concepts
+  *Implemented basic switching and VLAN concepts
 
-- Verified intra-network communication and connectivityls.
+  *Verified intra-network communication and connectivityls.
 
 <hr/>
 
