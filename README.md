@@ -7,8 +7,8 @@ The projects demonstrate **operational networking experience** aligned with **CC
 ## 📡 Network Monitoring & Troubleshooting & IOS Device Operations & Validation
 
 - **[Network Monitoring & Incident Response](https://github.com/WDSJ2K/Monitoring-and-Incident-Response)**
-  
-  *Verified interface and device availability
+
+  *Practiced configuration persistence, password recovery, and IOS lifecycle procedures
   
   *Simulated network outages and confirmed service restoration
   
