@@ -10,7 +10,7 @@ The projects demonstrate **operational networking experience** aligned with **CC
 
   *Practiced configuration persistence, password recovery, and IOS lifecycle procedures
   
-  *Simulated network outages and confirmed service restoration
+  *Documented findings with command-line evidence to mirror operational workflows
   
   *Validated device state and interface status using Cisco IOS operational commands 
 - **[Network Troubleshooting & Root Cause Analysis](https://github.com/WDSJ2K/Troubleshooting-RCA)**
